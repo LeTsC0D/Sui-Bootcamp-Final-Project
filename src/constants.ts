@@ -1,0 +1,2 @@
+export const UDEMYHUB_PACKAGE_ID =
+  "0x6b0b5c3842c81636eac753ca65ccf6b548ab6c2cac6dbb70da0ee818f4b7d168";
